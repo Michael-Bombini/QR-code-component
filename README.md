@@ -4,5 +4,5 @@
 
 ## See Github Page here :
 
-https://michael-bombini.github.io/QR-code-component/
+### https://michael-bombini.github.io/QR-code-component/
 
